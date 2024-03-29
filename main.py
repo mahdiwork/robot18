@@ -6,7 +6,7 @@ import datetime
 import pytz
 
 admins=0
-TOKEN ='6317356905:AAGQ2p8Lo0Kc4mkChTmE7ZbI2p1bzw9cIO8'
+TOKEN ='7039401970:AAF0y34cyHZB6qR-TUueKIX7JA_xYVuAbJU'
 
 chanal_target={}
 userStep={}
